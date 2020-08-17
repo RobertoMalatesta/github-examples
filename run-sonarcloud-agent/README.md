@@ -1,4 +1,4 @@
-# Release trigger
+# SonarCloud pipeline
 
 This example demonstrates how you can run SonarCloud in a pipeline.
 
