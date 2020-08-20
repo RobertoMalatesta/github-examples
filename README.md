@@ -11,3 +11,4 @@ This repository contains quick examples related to GitHub.
 1. [Publish Maven Site to GitHub Pages example](publish-maven-site-to-github-pages/)
 1. [Use a tag as a release trigger example](release-trigger/)
 1. [Run SonarCloud in a pipeline](run-sonarcloud-agent/)
+1. [Manual Release Pipeline](manual-release-trigger/)
